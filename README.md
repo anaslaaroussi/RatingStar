@@ -22,7 +22,7 @@ This repo will help to visuliaze a simple rating star to your project.
 <script>
 // count : count of stars that you want to display
 // starSize : Star height
-returnStar(count ,starSize)
+returnStar(count ,starSize,initialRating)
 </script>
 ```
 
